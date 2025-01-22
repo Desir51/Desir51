@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Desir51 bug bot
-Desir-bog-bot
+Desir Bug-bot
